@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Invoice/static/css/main.a929c160.css",
-    "main.js": "/Invoice/static/js/main.76e94e28.js",
-    "static/media/profile.png": "/Invoice/static/media/profile.22a8a3e32fd740b27b07.png",
-    "index.html": "/Invoice/index.html",
-    "static/media/icon-sun.svg": "/Invoice/static/media/icon-sun.f3da52d13a35ad8bc751df2e85093f98.svg",
-    "static/media/icon-moon.svg": "/Invoice/static/media/icon-moon.7101c57dc8ecc85e045e9179625e2cb2.svg",
-    "main.a929c160.css.map": "/Invoice/static/css/main.a929c160.css.map",
-    "main.76e94e28.js.map": "/Invoice/static/js/main.76e94e28.js.map"
+    "main.css": "/InvoiceApp/static/css/main.a929c160.css",
+    "main.js": "/InvoiceApp/static/js/main.ff7aa550.js",
+    "static/media/profile.png": "/InvoiceApp/static/media/profile.22a8a3e32fd740b27b07.png",
+    "index.html": "/InvoiceApp/index.html",
+    "static/media/icon-sun.svg": "/InvoiceApp/static/media/icon-sun.f3da52d13a35ad8bc751df2e85093f98.svg",
+    "static/media/icon-moon.svg": "/InvoiceApp/static/media/icon-moon.7101c57dc8ecc85e045e9179625e2cb2.svg",
+    "main.a929c160.css.map": "/InvoiceApp/static/css/main.a929c160.css.map",
+    "main.ff7aa550.js.map": "/InvoiceApp/static/js/main.ff7aa550.js.map"
   },
   "entrypoints": [
     "static/css/main.a929c160.css",
-    "static/js/main.76e94e28.js"
+    "static/js/main.ff7aa550.js"
   ]
 }
